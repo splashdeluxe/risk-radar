@@ -1,0 +1,15 @@
+# Risk Radar
+
+> An AI-assisted delivery-risk dashboard for Scrum and SAFe teams. It monitors backlog signals across Agile Release Trains, scores risks by Probability x Impact, and routes low-confidence AI flags to a human review queue. A single-page app in one HTML file: risk matrix, register, dependency tracking, audit trail and human-in-the-loop controls.
+
+## What it does
+
+- Scores delivery risks by probability and impact, shown on a risk matrix
+- Keeps a risk register with dependency tracking and an audit trail
+- Sends low-confidence AI flags to a human review queue instead of acting on them
+
+## Links
+
+- Repository: https://github.com/splashdeluxe/risk-radar
+- The app: open index.html in a browser
+- Author: Nils Effmert, https://perfectlivingspot.com
